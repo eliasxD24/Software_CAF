@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elias\\source\\repos\\InventarioLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|c:\\users\\elias\\source\\repos\\inventarioli\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|c:\\users\\elias\\source\\repos\\inventarioli\\activosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|solutionrelative:activosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|c:\\users\\elias\\source\\repos\\inventarioli\\soporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|solutionrelative:soporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|C:\\Users\\elias\\source\\repos\\InventarioLI\\acercadeeliassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0898EE10-8EE8-49B5-8AEF-DB7D3C0B9A16}|InventarioLI.csproj|solutionrelative:acercadeeliassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\InventarioLI\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\InventarioLI\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:29:14.865Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivosFijos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\InventarioLI\\ActivosFijos.cs",
+              "RelativeDocumentMoniker": "ActivosFijos.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\InventarioLI\\ActivosFijos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActivosFijos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:29:06.088Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Soporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\InventarioLI\\Soporte.cs",
+              "RelativeDocumentMoniker": "Soporte.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\InventarioLI\\Soporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Soporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T23:43:26.79Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcercaDeEliAssets.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\InventarioLI\\AcercaDeEliAssets.cs",
+              "RelativeDocumentMoniker": "AcercaDeEliAssets.cs",
+              "ToolTip": "C:\\Users\\elias\\source\\repos\\InventarioLI\\AcercaDeEliAssets.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcercaDeEliAssets.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T23:43:12.39Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

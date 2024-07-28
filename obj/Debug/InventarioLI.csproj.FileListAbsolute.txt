@@ -1,0 +1,128 @@
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\InventarioLI.exe.config
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\InventarioLI.exe
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\InventarioLI.pdb
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.exe.config
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Login.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Properties.Resources.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Registro.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.CopyComplete
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.exe
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.pdb
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Inventario.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.ActivosFijos.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.AgregarProducto.resources
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\QRCoder.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Xceed.Document.NET.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Xceed.Words.NET.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\zxing.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\zxing.presentation.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\zxing.xml
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\zxing.presentation.xml
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Cgris.png
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Cverde.png
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.UsuariosActivos.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Historial.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.AlterarUsuarios.resources
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\DeleteIco.png
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Resources\DeleteIco.png
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\InventarioLI.exe.manifest
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\InventarioLI.application
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.exe.manifest
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.application
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro B.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro D.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel MA.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro B.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro D.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\descarga.ico
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala.xlsx
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.RecuperarContra.resources
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.CrearConexion.resources
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro A.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro C.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro E.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro A.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro C.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro E.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro A.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro B.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro C.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro D.xlsx
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro E.xlsx
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Identificador.resources
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\descargar.jpg
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Identificador.jpg
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.AcercaDeEliAssets.resources
+C:\Users\pc\source\repos\InventarioLI\bin\Debug\Resources\descarga.jpg
+C:\Users\pc\source\repos\InventarioLI\obj\Debug\InventarioLI.Soporte.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.AcercaDeEliAssets.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.ActivosFijos.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.AgregarProducto.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.AlterarUsuarios.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.CrearConexion.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Historial.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Identificador.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Inventario.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Login.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Properties.Resources.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.RecuperarContra.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Registro.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.Soporte.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.UsuariosActivos.resources
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.GenerateResource.cache
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.exe
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.pdb
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Resources\descarga.jpg
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\descargar.jpg
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Identificador.jpg
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro A.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro C.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro E.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro A.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro C.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro E.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro A.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro B.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro C.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro D.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Plantilla_Sala Rubro E.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\descarga.ico
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro B.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG Rubro D.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel IG.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel MA.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro B.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME Rubro D.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\PlantillaExcel ME.xlsx
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Cgris.png
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\Cverde.png
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Imagenes\DeleteIco.png
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Resources\DeleteIco.png
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\InventarioLI.exe.config
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\InventarioLI.exe.manifest
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\InventarioLI.application
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\InventarioLI.exe
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\InventarioLI.pdb
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\MySql.Data.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\QRCoder.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Xceed.Document.NET.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\Xceed.Words.NET.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\zxing.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\zxing.presentation.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\zxing.xml
+C:\Users\elias\source\repos\InventarioLI\bin\Debug\zxing.presentation.xml
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.exe.manifest
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.application
+C:\Users\elias\source\repos\InventarioLI\obj\Debug\InventarioLI.csproj.CopyComplete
